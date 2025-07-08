@@ -11,4 +11,4 @@
 
 本站提供高清影视资源，支持多终端播放，分类清晰，满足不同用户的观看需求。每天更新，确保用户能够观看到最新的影片内容。无广告、无干扰，为用户提供最佳观影体验。
 
-<span style="display:none;">[Canonical link](https://github.com/vivian20250708 ）</span>
+<span style="display:none;">[Canonical link](https://github.com/vivian20250708/viv20 ）</span>
